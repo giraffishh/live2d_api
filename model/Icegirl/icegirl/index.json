@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "冰雪少女模型 作者B站-天野锅锅.moc3",
+		"Textures": [
+			"冰雪少女模型 作者B站-天野锅锅.8192/texture_00.png",
+			"冰雪少女模型 作者B站-天野锅锅.8192/texture_01.png",
+			"冰雪少女模型 作者B站-天野锅锅.8192/texture_02.png",
+			"冰雪少女模型 作者B站-天野锅锅.8192/texture_03.png"
+		],
+		"Physics": "冰雪少女模型 作者B站-天野锅锅.physics3.json",
+		"DisplayInfo": "冰雪少女模型 作者B站-天野锅锅.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

@@ -1,43 +1,41 @@
 {
     "models": [
-        "Potion-Maker/Pio",
+		[
+        "Potion-Maker/Pio_deafault",
+		"Potion-Maker/Pio_sailor-costume",
+		"Potion-Maker/Pio_animal-costume",
+		"Potion-Maker/Pio_santa-costume",
+		"Potion-Maker/Pio_star-witch-costume",
+		"Potion-Maker/Pio_winter-coat-2017-costume-white"
+		],
+		[
         "Potion-Maker/Tia",
+		"Potion-Maker/Tia_blackcat-costume",
+		"Potion-Maker/Tia_blazer-costume-brown",
+		"Potion-Maker/Tia_blackcat-costume",
+		"Potion-Maker/Tia_cute-pajamas-costume-purple",
+		"Potion-Maker/Tia_frill-blouse-costume-green",
+		"Potion-Maker/Tia_sailor-costume",
+		"Potion-Maker/Tia_sulbim-costume-snowflake",
+		"Potion-Maker/Tia_whiteday-costume-purple"
+		],
         [
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama",
 			"ShizukuTalk/shizuku-new"
         ],
-        [
-            "HyperdimensionNeptunia/neptune_classic",
-            "HyperdimensionNeptunia/nepnep",
-            "HyperdimensionNeptunia/neptune_santa",
-            "HyperdimensionNeptunia/nepmaid",
-            "HyperdimensionNeptunia/nepswim",
-            "HyperdimensionNeptunia/noir_classic",
-            "HyperdimensionNeptunia/noir",
-            "HyperdimensionNeptunia/noir_santa",
-            "HyperdimensionNeptunia/noireswim",
-            "HyperdimensionNeptunia/blanc_classic",
-            "HyperdimensionNeptunia/blanc_normal",
-            "HyperdimensionNeptunia/blanc_swimwear",
-            "HyperdimensionNeptunia/vert_classic",
-            "HyperdimensionNeptunia/vert_normal",
-            "HyperdimensionNeptunia/vert_swimwear",
-            "HyperdimensionNeptunia/nepgear",
-            "HyperdimensionNeptunia/nepgear_extra",
-            "HyperdimensionNeptunia/nepgearswim",
-            "HyperdimensionNeptunia/histoire",
-            "HyperdimensionNeptunia/histoirenohover"
-        ],
 		"Yumi/yumi",
-		"Nahida/nahida"
+		"Nahida/nahida",
+		"Allium/allium",
+		"Icegirl/icegirl"
 	],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "Shizuku Talk ！这里是 Shizuku ~",
-        "Nep! Nep! 超次元游戏：海王星 系列",
 		"来着B站7Apoi的Yumi ~",
-		"来自B站クロネコ黑猫的Nahida ~"
+		"来自B站クロネコ黑猫的Nahida ~",
+		"来自B站Yuri幽里的Allium",
+		"来自B站天夜彩的冰雪妹妹"
     ]
 }
