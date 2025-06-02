@@ -24,17 +24,27 @@
             "ShizukuTalk/shizuku-pajama"
         ],
 		"Yumi/yumi",
-		"Nahida/nahida",
-		"Allium/allium",
-		"Icegirl/icegirl"
+		"Icegirl/icegirl",
+		[
+			"95type/destroy",
+			"95type/normal"
+		],
+		[
+			"HK416/HK416_416_destroy",
+			"HK416/HK416_416_normal",
+			"HK416/HK416_805_destroy"
+		],
+		[
+			"kp31/kp31-",
+			"kp31/kp31_"
+		],
+		"Xinxiya/xinxiya"
 	],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "Shizuku Talk ！这里是 Shizuku ~",
 		"来着B站7Apoi的Yumi ~",
-		"来自B站クロネコ黑猫的Nahida ~",
-		"来自B站Yuri幽里的Allium",
 		"来自B站天夜彩的冰雪妹妹"
     ]
 }
